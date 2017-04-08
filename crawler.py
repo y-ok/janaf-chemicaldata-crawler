@@ -18,48 +18,54 @@ def getChemicalElementsInfo():
     soup = BeautifulSoup(r.text, "html.parser")
     
     chemicalElementList = []
-    chemicalElementInfo = namedtuple('chemicalElementInfo', ('elementName', 'elementUrl'))
+    chemicalElementInfo = namedtuple('chemicalElementInfo', ('elementName', 'elementUrl', 'elementsList'))
     
     for td_tag in soup.findAll("td"):
         if td_tag.find("a") is None:
             continue
         elementName = td_tag.find("br").string
         elementUrl  = base_url + td_tag.find("a").get("href")
-        chemicalElementList.append(chemicalElementInfo(elementName, elementUrl))
+        elementsList = getElementInfo(elementUrl)
+        chemicalElementList.append(chemicalElementInfo(elementName, elementUrl, elementsList))
     return chemicalElementList
 
 
-def getElementInfo(chemicalElementList):
+def getElementInfo(elementUrl):
     
-    ElementListAll = []
-    for chemicalElement in chemicalElementList:
+    r = requests.get(elementUrl)
+    soup = BeautifulSoup(r.text, "html.parser")
+    
+    table = soup.findAll("table")[0]
+    rows = table.findAll("tr")
+    
+    ElementList = []
+    elementInfo = namedtuple('elementInfo', ('casNumber', 'formula', 'name', 'state', 'JANAFTableUrl'))
         
-        elementUrl = chemicalElement.elementUrl
-        r = requests.get(elementUrl)
-        soup = BeautifulSoup(r.text, "html.parser")
-    
-        table = soup.findAll("table")[0]
-        rows = table.findAll("tr")
-    
-        ElementList = []
-        for row in rows:
-            index = 0
-            for cell in row.findAll('td'):
-                index = index + 1
-                if cell.get("width") is None and index != 9:
-                    if cell.find("a") is None:
-                        ElementList.append(cell.get_text())
-                if index == 9:
-                    ElementList.append(base_url + "/janaf/" + cell.find("a").get("href"))
-                    
-        for element in ElementList:
-            print(element)
-    
-        print("---------------------------")
-    
-        ElementListAll.append(ElementList)
-
-    
-    for row_list in ElementListAll:
-        print(row_list)
-    
+    for row in rows:
+            
+        elementList = []
+        index = 0
+        for cell in row.findAll('td'):
+            index = index + 1
+            if cell.get("width") is None and index != 9:
+                if cell.find("a") is None:
+                    # casNumber
+                    if index == 1:
+                        elementList.append(cell.get_text())
+                    # formula
+                    elif index == 3:
+                        elementList.append(cell.get_text())
+                    # name
+                    elif index == 5:
+                        elementList.append(cell.get_text())
+                    # state
+                    elif index == 7:
+                        elementList.append(cell.get_text())
+            elif index == 9:
+                JANAFTableUrl = base_url + "/janaf/" + cell.find("a").get("href")
+                elementList.append(JANAFTableUrl)
+            
+        if elementList != []:
+            ElementList.append(elementInfo(elementList[0], elementList[1], elementList[2], elementList[3], elementList[4]))
+        
+    return ElementList

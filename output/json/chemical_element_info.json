@@ -1,414 +1,3133 @@
 [
     {
         "element_name": "H",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=H&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=H&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "12385-13-6",
+                "formula": "H",
+                "name": "Hydrogen",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-001.html"
+            },
+            {
+                "casNumber": "12184-88-2",
+                "formula": "H-",
+                "name": "Hydrogen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-003.html"
+            },
+            {
+                "casNumber": "12408-02-5",
+                "formula": "H+",
+                "name": "Hydrogen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-002.html"
+            },
+            {
+                "casNumber": "1333-74-0",
+                "formula": "H2",
+                "name": "Hydrogen",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-050.html"
+            },
+            {
+                "casNumber": "12184-89-3",
+                "formula": "H2-",
+                "name": "Hydrogen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-052.html"
+            },
+            {
+                "casNumber": "12184-90-6",
+                "formula": "H2+",
+                "name": "Hydrogen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-051.html"
+            },
+            {
+                "casNumber": "13766-26-2",
+                "formula": "HB",
+                "name": "Borane",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-045.html"
+            },
+            {
+                "casNumber": "13983-20-5",
+                "formula": "HD",
+                "name": "Hydrogen-D",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/D-005.html"
+            },
+            {
+                "casNumber": "56626-98-3",
+                "formula": "HD-",
+                "name": "Hydrogen-D , Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/D-007.html"
+            },
+            {
+                "casNumber": "12181-16-7",
+                "formula": "HD+",
+                "name": "Hydrogen-D , Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/D-006.html"
+            },
+            {
+                "casNumber": "7664-39-3",
+                "formula": "HF",
+                "name": "Hydrogen Fluoride",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-005.html"
+            },
+            {
+                "casNumber": "10034-85-2",
+                "formula": "HI",
+                "name": "Hydrogen Iodide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-005.html"
+            },
+            {
+                "casNumber": "7693-26-7",
+                "formula": "HK",
+                "name": "Potassium Hydride",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-008.html"
+            },
+            {
+                "casNumber": "7693-26-7",
+                "formula": "HK",
+                "name": "Potassium Hydride",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-007.html"
+            },
+            {
+                "casNumber": "13774-92-0",
+                "formula": "HN",
+                "name": "Imidogen",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-026.html"
+            },
+            {
+                "casNumber": "3352-57-6",
+                "formula": "HO",
+                "name": "Hydroxyl",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-038.html"
+            },
+            {
+                "casNumber": "14280-30-9",
+                "formula": "HO-",
+                "name": "Hydroxyl, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-040.html"
+            },
+            {
+                "casNumber": "12259-29-9",
+                "formula": "HO+",
+                "name": "Hydroxyl, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-039.html"
+            },
+            {
+                "casNumber": "13967-14-1",
+                "formula": "HP",
+                "name": "Phosphinidene",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-044.html"
+            },
+            {
+                "casNumber": "13940-21-1",
+                "formula": "HS",
+                "name": "Mercapto",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/H-046.html"
+            }
+        ]
     },
     {
         "element_name": "He",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=He&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=He&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-59-7",
+                "formula": "He",
+                "name": "Helium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/He-001.html"
+            },
+            {
+                "casNumber": "14234-48-1",
+                "formula": "He+",
+                "name": "Helium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/He-002.html"
+            }
+        ]
     },
     {
         "element_name": "Li",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Li&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Li&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7439-93-2",
+                "formula": "Li",
+                "name": "Lithium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Li-004.html"
+            },
+            {
+                "casNumber": "7439-93-2",
+                "formula": "Li",
+                "name": "Lithium",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Li-002.html"
+            },
+            {
+                "casNumber": "7439-93-2",
+                "formula": "Li",
+                "name": "Lithium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Li-003.html"
+            },
+            {
+                "casNumber": "7439-93-2",
+                "formula": "Li",
+                "name": "Lithium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Li-001.html"
+            },
+            {
+                "casNumber": "7439-93-2",
+                "formula": "Li",
+                "name": "Lithium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Li-005.html"
+            },
+            {
+                "casNumber": "14808-04-9",
+                "formula": "Li-",
+                "name": "Lithium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Li-007.html"
+            },
+            {
+                "casNumber": "17341-24-1",
+                "formula": "Li+",
+                "name": "Lithium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Li-006.html"
+            }
+        ]
     },
     {
         "element_name": "Be",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Be&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Be&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-41-7",
+                "formula": "Be",
+                "name": "Beryllium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Be-001.html"
+            },
+            {
+                "casNumber": "7440-41-7",
+                "formula": "Be",
+                "name": "Beryllium",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Be-002.html"
+            },
+            {
+                "casNumber": "7440-41-7",
+                "formula": "Be",
+                "name": "Beryllium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Be-003.html"
+            },
+            {
+                "casNumber": "7440-41-7",
+                "formula": "Be",
+                "name": "Beryllium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Be-004.html"
+            },
+            {
+                "casNumber": "7440-41-7",
+                "formula": "Be",
+                "name": "Beryllium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Be-005.html"
+            },
+            {
+                "casNumber": "14701-08-7",
+                "formula": "Be+",
+                "name": "Beryllium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Be-006.html"
+            }
+        ]
     },
     {
         "element_name": "B",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=B&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=B&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-42-8",
+                "formula": "B",
+                "name": "Boron",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-004.html"
+            },
+            {
+                "casNumber": "7440-42-8",
+                "formula": "B",
+                "name": "Boron",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-003.html"
+            },
+            {
+                "casNumber": "7440-42-8",
+                "formula": "B",
+                "name": "Boron",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-001.html"
+            },
+            {
+                "casNumber": "7440-42-8",
+                "formula": "B",
+                "name": "Boron",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-005.html"
+            },
+            {
+                "casNumber": "7440-42-8",
+                "formula": "B",
+                "name": "Boron, Beta-Rhombohedral",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-002.html"
+            },
+            {
+                "casNumber": "18869-19-7",
+                "formula": "B-",
+                "name": "Boron, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-007.html"
+            },
+            {
+                "casNumber": "14594-80-0",
+                "formula": "B+",
+                "name": "Boron, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-006.html"
+            },
+            {
+                "casNumber": "14452-61-0",
+                "formula": "B2",
+                "name": "Boron",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-083.html"
+            },
+            {
+                "casNumber": "13768-60-0",
+                "formula": "BF",
+                "name": "Fluoroborane",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-032.html"
+            },
+            {
+                "casNumber": "13842-56-3",
+                "formula": "BI",
+                "name": "Iodoborane",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-061.html"
+            },
+            {
+                "casNumber": "10043-11-5",
+                "formula": "BN",
+                "name": "Boron Nitride",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-072.html"
+            },
+            {
+                "casNumber": "10043-11-5",
+                "formula": "BN",
+                "name": "Boron Nitride",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-073.html"
+            },
+            {
+                "casNumber": "12505-77-0",
+                "formula": "BO",
+                "name": "Boron Oxide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-078.html"
+            },
+            {
+                "casNumber": "12228-39-6",
+                "formula": "BS",
+                "name": "Boron Sulfide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/B-081.html"
+            }
+        ]
     },
     {
         "element_name": "C",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=C&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=C&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-44-0",
+                "formula": "C",
+                "name": "Carbon",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-002.html"
+            },
+            {
+                "casNumber": "7440-44-0",
+                "formula": "C",
+                "name": "Carbon",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-003.html"
+            },
+            {
+                "casNumber": "14337-00-9",
+                "formula": "C-",
+                "name": "Carbon, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-005.html"
+            },
+            {
+                "casNumber": "14067-05-1",
+                "formula": "C+",
+                "name": "Carbon, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-004.html"
+            },
+            {
+                "casNumber": "12070-15-4",
+                "formula": "C2",
+                "name": "Carbon",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-113.html"
+            },
+            {
+                "casNumber": "50802-47-6",
+                "formula": "C2-",
+                "name": "Carbon, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-114.html"
+            },
+            {
+                "casNumber": "12075-35-3",
+                "formula": "C3",
+                "name": "Carbon",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-138.html"
+            },
+            {
+                "casNumber": "12184-80-4",
+                "formula": "C4",
+                "name": "Carbon",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-143.html"
+            },
+            {
+                "casNumber": "12595-82-3",
+                "formula": "C5",
+                "name": "Carbon",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-148.html"
+            },
+            {
+                "casNumber": "12011-54-0",
+                "formula": "CB",
+                "name": "Boron Carbide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-007.html"
+            },
+            {
+                "casNumber": "3889-75-6",
+                "formula": "CF",
+                "name": "Fluoromethylidyne",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-030.html"
+            },
+            {
+                "casNumber": "33412-11-2",
+                "formula": "CF+",
+                "name": "Fluoromethylidyne, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-031.html"
+            },
+            {
+                "casNumber": "3315-37-5",
+                "formula": "CH",
+                "name": "Methylidyne",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-043.html"
+            },
+            {
+                "casNumber": "24361-82-8",
+                "formula": "CH+",
+                "name": "Methylidyne, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-044.html"
+            },
+            {
+                "casNumber": "2074-87-5",
+                "formula": "CN",
+                "name": "Cyanogen",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-080.html"
+            },
+            {
+                "casNumber": "57-12-5",
+                "formula": "CN-",
+                "name": "Cyanide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-082.html"
+            },
+            {
+                "casNumber": "12539-57-0",
+                "formula": "CN+",
+                "name": "Cyanogen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-081.html"
+            },
+            {
+                "casNumber": "630-08-0",
+                "formula": "CO",
+                "name": "Carbon Monoxide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-093.html"
+            },
+            {
+                "casNumber": "12326-85-1",
+                "formula": "CP",
+                "name": "Carbon Phosphide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-097.html"
+            },
+            {
+                "casNumber": "2944-05-0",
+                "formula": "CS",
+                "name": "Carbon Sulfide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/C-098.html"
+            }
+        ]
     },
     {
         "element_name": "N",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=N&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=N&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "17778-88-0",
+                "formula": "N",
+                "name": "Nitrogen",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-002.html"
+            },
+            {
+                "casNumber": "17778-87-9",
+                "formula": "N-",
+                "name": "Nitrogen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-004.html"
+            },
+            {
+                "casNumber": "14158-23-7",
+                "formula": "N+",
+                "name": "Nitrogen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-003.html"
+            },
+            {
+                "casNumber": "7727-37-9",
+                "formula": "N2",
+                "name": "Nitrogen",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-023.html"
+            },
+            {
+                "casNumber": "12185-02-3",
+                "formula": "N2-",
+                "name": "Nitrogen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-025.html"
+            },
+            {
+                "casNumber": "13966-04-6",
+                "formula": "N2+",
+                "name": "Nitrogen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-024.html"
+            },
+            {
+                "casNumber": "14343-69-2",
+                "formula": "N3",
+                "name": "Azide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-034.html"
+            },
+            {
+                "casNumber": "10102-43-9",
+                "formula": "NO",
+                "name": "Nitrogen Oxide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-005.html"
+            },
+            {
+                "casNumber": "14967-78-3",
+                "formula": "NO+",
+                "name": "Nitrogen Oxide, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-006.html"
+            },
+            {
+                "casNumber": "17739-47-8",
+                "formula": "NP",
+                "name": "Phosphorus Nitride",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-010.html"
+            },
+            {
+                "casNumber": "12033-56-6",
+                "formula": "NS",
+                "name": "Nitrogen Sulfide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-011.html"
+            },
+            {
+                "casNumber": "24646-85-3",
+                "formula": "NV",
+                "name": "Vanadium Nitride",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-017.html"
+            },
+            {
+                "casNumber": "24646-85-3",
+                "formula": "NV",
+                "name": "Vanadium Nitride",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/N-018.html"
+            }
+        ]
     },
     {
         "element_name": "O",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=O&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=O&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "17778-80-2",
+                "formula": "O",
+                "name": "Oxygen",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-001.html"
+            },
+            {
+                "casNumber": "14337-01-0",
+                "formula": "O-",
+                "name": "Oxygen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-003.html"
+            },
+            {
+                "casNumber": "14581-93-2",
+                "formula": "O+",
+                "name": "Oxygen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-002.html"
+            },
+            {
+                "casNumber": "7782-44-7",
+                "formula": "O2",
+                "name": "Oxygen",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-029.html"
+            },
+            {
+                "casNumber": "11062-77-4",
+                "formula": "O2-",
+                "name": "Oxygen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-031.html"
+            },
+            {
+                "casNumber": "12185-07-8",
+                "formula": "O2+",
+                "name": "Oxygen, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-030.html"
+            },
+            {
+                "casNumber": "10028-15-6",
+                "formula": "O3",
+                "name": "Ozone",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-056.html"
+            },
+            {
+                "casNumber": "14452-66-5",
+                "formula": "OP",
+                "name": "Phosphorus Oxide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-004.html"
+            },
+            {
+                "casNumber": "13827-32-2",
+                "formula": "OS",
+                "name": "Sulfur Oxide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-010.html"
+            },
+            {
+                "casNumber": "12035-98-2",
+                "formula": "OV",
+                "name": "Vanadium Oxide",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-025.html"
+            },
+            {
+                "casNumber": "12035-98-2",
+                "formula": "OV",
+                "name": "Vanadium Oxide",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-023.html"
+            },
+            {
+                "casNumber": "12035-98-2",
+                "formula": "OV",
+                "name": "Vanadium Oxide",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-024.html"
+            },
+            {
+                "casNumber": "12035-98-2",
+                "formula": "OV",
+                "name": "Vanadium Oxide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-026.html"
+            },
+            {
+                "casNumber": "12035-99-3",
+                "formula": "OW",
+                "name": "Tungsten Oxide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/O-027.html"
+            }
+        ]
     },
     {
         "element_name": "F",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=F&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=F&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "14762-94-8",
+                "formula": "F",
+                "name": "Fluorine",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-001.html"
+            },
+            {
+                "casNumber": "16984-48-8",
+                "formula": "F-",
+                "name": "Fluorine, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-003.html"
+            },
+            {
+                "casNumber": "14701-13-4",
+                "formula": "F+",
+                "name": "Fluorine, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-002.html"
+            },
+            {
+                "casNumber": "7782-41-4",
+                "formula": "F2",
+                "name": "Fluorine",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-054.html"
+            },
+            {
+                "casNumber": "13873-84-2",
+                "formula": "FI",
+                "name": "Iodine Fluoride",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-016.html"
+            },
+            {
+                "casNumber": "7789-23-3",
+                "formula": "FK",
+                "name": "Potassium Fluoride",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-018.html"
+            },
+            {
+                "casNumber": "7789-23-3",
+                "formula": "FK",
+                "name": "Potassium Fluoride",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-019.html"
+            },
+            {
+                "casNumber": "7789-23-3",
+                "formula": "FK",
+                "name": "Potassium Fluoride",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-020.html"
+            },
+            {
+                "casNumber": "7789-23-3",
+                "formula": "FK",
+                "name": "Potassium Fluoride",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-017.html"
+            },
+            {
+                "casNumber": "13967-06-1",
+                "formula": "FN",
+                "name": "Fluoroimidogen",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-029.html"
+            },
+            {
+                "casNumber": "12061-70-0",
+                "formula": "FO",
+                "name": "Oxygen Fluoride",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-037.html"
+            },
+            {
+                "casNumber": "16027-92-2",
+                "formula": "FP",
+                "name": "Phosphorus Fluoride",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-040.html"
+            },
+            {
+                "casNumber": "11080-56-1",
+                "formula": "FP-",
+                "name": "Phosphorus Fluoride, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-042.html"
+            },
+            {
+                "casNumber": "11080-57-2",
+                "formula": "FP+",
+                "name": "Phosphorus Fluoride, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-041.html"
+            },
+            {
+                "casNumber": "16068-96-5",
+                "formula": "FS",
+                "name": "Sulfur Fluoride",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-045.html"
+            },
+            {
+                "casNumber": "31296-43-2",
+                "formula": "FS-",
+                "name": "Sulfur Fluoride, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-047.html"
+            },
+            {
+                "casNumber": "31296-42-1",
+                "formula": "FS+",
+                "name": "Sulfur Fluoride, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-046.html"
+            },
+            {
+                "casNumber": "51621-16-0",
+                "formula": "FW",
+                "name": "Tungsten Fluoride",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/F-052.html"
+            }
+        ]
     },
     {
         "element_name": "Ne",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ne&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ne&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-01-9",
+                "formula": "Ne",
+                "name": "Neon",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ne-001.html"
+            },
+            {
+                "casNumber": "14782-23-1",
+                "formula": "Ne+",
+                "name": "Neon, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ne-002.html"
+            }
+        ]
     },
     {
         "element_name": "Na",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Na&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Na&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-23-5",
+                "formula": "Na",
+                "name": "Sodium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Na-004.html"
+            },
+            {
+                "casNumber": "7440-23-5",
+                "formula": "Na",
+                "name": "Sodium",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Na-002.html"
+            },
+            {
+                "casNumber": "7440-23-5",
+                "formula": "Na",
+                "name": "Sodium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Na-003.html"
+            },
+            {
+                "casNumber": "7440-23-5",
+                "formula": "Na",
+                "name": "Sodium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Na-001.html"
+            },
+            {
+                "casNumber": "7440-23-5",
+                "formula": "Na",
+                "name": "Sodium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Na-005.html"
+            },
+            {
+                "casNumber": "19181-13-6",
+                "formula": "Na-",
+                "name": "Sodium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Na-007.html"
+            },
+            {
+                "casNumber": "17341-25-2",
+                "formula": "Na+",
+                "name": "Sodium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Na-006.html"
+            }
+        ]
     },
     {
         "element_name": "Mg",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Mg&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Mg&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7439-95-4",
+                "formula": "Mg",
+                "name": "Magnesium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mg-001.html"
+            },
+            {
+                "casNumber": "7439-95-4",
+                "formula": "Mg",
+                "name": "Magnesium",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mg-002.html"
+            },
+            {
+                "casNumber": "7439-95-4",
+                "formula": "Mg",
+                "name": "Magnesium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mg-003.html"
+            },
+            {
+                "casNumber": "7439-95-4",
+                "formula": "Mg",
+                "name": "Magnesium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mg-004.html"
+            },
+            {
+                "casNumber": "7439-95-4",
+                "formula": "Mg",
+                "name": "Magnesium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mg-005.html"
+            },
+            {
+                "casNumber": "14581-92-1",
+                "formula": "Mg+",
+                "name": "Magnesium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mg-006.html"
+            }
+        ]
     },
     {
         "element_name": "Al",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Al&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Al&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7429-90-5",
+                "formula": "Al",
+                "name": "Aluminum",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Al-004.html"
+            },
+            {
+                "casNumber": "7429-90-5",
+                "formula": "Al",
+                "name": "Aluminum",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Al-002.html"
+            },
+            {
+                "casNumber": "7429-90-5",
+                "formula": "Al",
+                "name": "Aluminum",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Al-003.html"
+            },
+            {
+                "casNumber": "7429-90-5",
+                "formula": "Al",
+                "name": "Aluminum",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Al-001.html"
+            },
+            {
+                "casNumber": "7429-90-5",
+                "formula": "Al",
+                "name": "Aluminum",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Al-005.html"
+            },
+            {
+                "casNumber": "22325-47-9",
+                "formula": "Al-",
+                "name": "Aluminum, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Al-007.html"
+            },
+            {
+                "casNumber": "14903-36-7",
+                "formula": "Al+",
+                "name": "Aluminum, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Al-006.html"
+            }
+        ]
     },
     {
         "element_name": "Si",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Si&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Si&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-21-3",
+                "formula": "Si",
+                "name": "Silicon",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Si-004.html"
+            },
+            {
+                "casNumber": "7440-21-3",
+                "formula": "Si",
+                "name": "Silicon",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Si-002.html"
+            },
+            {
+                "casNumber": "7440-21-3",
+                "formula": "Si",
+                "name": "Silicon",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Si-003.html"
+            },
+            {
+                "casNumber": "7440-21-3",
+                "formula": "Si",
+                "name": "Silicon",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Si-001.html"
+            },
+            {
+                "casNumber": "7440-21-3",
+                "formula": "Si",
+                "name": "Silicon",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Si-005.html"
+            },
+            {
+                "casNumber": "14337-02-1",
+                "formula": "Si-",
+                "name": "Silicon, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Si-007.html"
+            },
+            {
+                "casNumber": "14067-07-3",
+                "formula": "Si+",
+                "name": "Silicon, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Si-006.html"
+            }
+        ]
     },
     {
         "element_name": "P",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=P&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=P&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7723-14-0",
+                "formula": "P",
+                "name": "Phosphorus",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-001.html"
+            },
+            {
+                "casNumber": "7723-14-0",
+                "formula": "P",
+                "name": "Phosphorus",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-008.html"
+            },
+            {
+                "casNumber": "7723-14-0",
+                "formula": "P",
+                "name": "Phosphorus",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-003.html"
+            },
+            {
+                "casNumber": "7723-14-0",
+                "formula": "P",
+                "name": "Phosphorus",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-004.html"
+            },
+            {
+                "casNumber": "7723-14-0",
+                "formula": "P",
+                "name": "Phosphorus, Black",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-007.html"
+            },
+            {
+                "casNumber": "7723-14-0",
+                "formula": "P",
+                "name": "Phosphorus, Red, IV",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-005.html"
+            },
+            {
+                "casNumber": "7723-14-0",
+                "formula": "P",
+                "name": "Phosphorus, Red, V",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-006.html"
+            },
+            {
+                "casNumber": "7723-14-0",
+                "formula": "P",
+                "name": "Phosphorus, White",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-002.html"
+            },
+            {
+                "casNumber": "16050-72-9",
+                "formula": "P-",
+                "name": "Phosphorus, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-010.html"
+            },
+            {
+                "casNumber": "16427-80-8",
+                "formula": "P+",
+                "name": "Phosphorus, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-009.html"
+            },
+            {
+                "casNumber": "12185-09-0",
+                "formula": "P2",
+                "name": "Phosphorus",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-012.html"
+            },
+            {
+                "casNumber": "12185-10-3",
+                "formula": "P4",
+                "name": "Phosphorus",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-013.html"
+            },
+            {
+                "casNumber": "12281-36-6",
+                "formula": "PS",
+                "name": "Phosphorus Sulfide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/P-011.html"
+            }
+        ]
     },
     {
         "element_name": "S",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=S&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=S&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7704-34-9",
+                "formula": "S",
+                "name": "Sulfur",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-001.html"
+            },
+            {
+                "casNumber": "7704-34-9",
+                "formula": "S",
+                "name": "Sulfur",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-004.html"
+            },
+            {
+                "casNumber": "7704-34-9",
+                "formula": "S",
+                "name": "Sulfur",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-005.html"
+            },
+            {
+                "casNumber": "7704-34-9",
+                "formula": "S",
+                "name": "Sulfur",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-006.html"
+            },
+            {
+                "casNumber": "7704-34-9",
+                "formula": "S",
+                "name": "Sulfur, Monoclinic",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-003.html"
+            },
+            {
+                "casNumber": "7704-34-9",
+                "formula": "S",
+                "name": "Sulfur, Orthorhombic",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-002.html"
+            },
+            {
+                "casNumber": "14337-03-2",
+                "formula": "S-",
+                "name": "Sulfur, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-008.html"
+            },
+            {
+                "casNumber": "14701-12-3",
+                "formula": "S+",
+                "name": "Sulfur, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-007.html"
+            },
+            {
+                "casNumber": "23550-45-0",
+                "formula": "S2",
+                "name": "Sulfur",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-012.html"
+            },
+            {
+                "casNumber": "12597-03-4",
+                "formula": "S3",
+                "name": "Sulfur",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-016.html"
+            },
+            {
+                "casNumber": "19269-85-3",
+                "formula": "S4",
+                "name": "Sulfur",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-017.html"
+            },
+            {
+                "casNumber": "12597-10-3",
+                "formula": "S5",
+                "name": "Sulfur",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-018.html"
+            },
+            {
+                "casNumber": "13798-23-7",
+                "formula": "S6",
+                "name": "Sulfur",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-019.html"
+            },
+            {
+                "casNumber": "21459-04-1",
+                "formula": "S7",
+                "name": "Sulfur",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-020.html"
+            },
+            {
+                "casNumber": "10544-50-0",
+                "formula": "S8",
+                "name": "Sulfur",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/S-021.html"
+            }
+        ]
     },
     {
         "element_name": "Cl",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cl&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cl&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "22537-15-1",
+                "formula": "Cl",
+                "name": "Chlorine",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cl-001.html"
+            },
+            {
+                "casNumber": "16887-00-6",
+                "formula": "Cl-",
+                "name": "Chlorine, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cl-003.html"
+            },
+            {
+                "casNumber": "24203-47-2",
+                "formula": "Cl+",
+                "name": "Chlorine, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cl-002.html"
+            }
+        ]
     },
     {
         "element_name": "Ar",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ar&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ar&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-37-1",
+                "formula": "Ar",
+                "name": "Argon",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ar-001.html"
+            },
+            {
+                "casNumber": "14791-69-6",
+                "formula": "Ar+",
+                "name": "Argon, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ar-002.html"
+            }
+        ]
     },
     {
         "element_name": "K",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=K&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=K&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-09-7",
+                "formula": "K",
+                "name": "Potassium",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/K-002.html"
+            },
+            {
+                "casNumber": "7440-09-7",
+                "formula": "K",
+                "name": "Potassium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/K-003.html"
+            },
+            {
+                "casNumber": "7440-09-7",
+                "formula": "K",
+                "name": "Potassium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/K-004.html"
+            },
+            {
+                "casNumber": "7440-09-7",
+                "formula": "K",
+                "name": "Potassium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/K-005.html"
+            },
+            {
+                "casNumber": "7440-09-7",
+                "formula": "K",
+                "name": "Potassium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/K-001.html"
+            },
+            {
+                "casNumber": "19128-96-2",
+                "formula": "K-",
+                "name": "Potassium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/K-007.html"
+            },
+            {
+                "casNumber": "24203-36-9",
+                "formula": "K+",
+                "name": "Potassium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/K-006.html"
+            },
+            {
+                "casNumber": "25681-80-5",
+                "formula": "K2",
+                "name": "Potassium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/K-011.html"
+            },
+            {
+                "casNumber": "12401-70-6",
+                "formula": "KO",
+                "name": "Potassium Oxide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/K-008.html"
+            },
+            {
+                "casNumber": "64538-55-2",
+                "formula": "KO-",
+                "name": "Potassium Oxide, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/K-009.html"
+            }
+        ]
     },
     {
         "element_name": "Ca",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ca&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ca&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-70-2",
+                "formula": "Ca",
+                "name": "Calcium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ca-004.html"
+            },
+            {
+                "casNumber": "7440-70-2",
+                "formula": "Ca",
+                "name": "Calcium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ca-001.html"
+            },
+            {
+                "casNumber": "7440-70-2",
+                "formula": "Ca",
+                "name": "Calcium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ca-005.html"
+            },
+            {
+                "casNumber": "7440-70-2",
+                "formula": "Ca",
+                "name": "Calcium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ca-006.html"
+            },
+            {
+                "casNumber": "7440-70-2",
+                "formula": "Ca",
+                "name": "Calcium, Alpha",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ca-002.html"
+            },
+            {
+                "casNumber": "7440-70-2",
+                "formula": "Ca",
+                "name": "Calcium, Beta",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ca-003.html"
+            },
+            {
+                "casNumber": "14102-48-8",
+                "formula": "Ca+",
+                "name": "Calcium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ca-007.html"
+            }
+        ]
     },
     {
         "element_name": "Sc",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sc&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sc&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Ti",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ti&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ti&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-32-6",
+                "formula": "Ti",
+                "name": "Titanium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ti-001.html"
+            },
+            {
+                "casNumber": "7440-32-6",
+                "formula": "Ti",
+                "name": "Titanium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ti-004.html"
+            },
+            {
+                "casNumber": "7440-32-6",
+                "formula": "Ti",
+                "name": "Titanium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ti-005.html"
+            },
+            {
+                "casNumber": "7440-32-6",
+                "formula": "Ti",
+                "name": "Titanium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ti-006.html"
+            },
+            {
+                "casNumber": "7440-32-6",
+                "formula": "Ti",
+                "name": "Titanium, Alpha",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ti-002.html"
+            },
+            {
+                "casNumber": "7440-32-6",
+                "formula": "Ti",
+                "name": "Titanium, Beta",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ti-003.html"
+            },
+            {
+                "casNumber": "22325-58-2",
+                "formula": "Ti-",
+                "name": "Titanium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ti-008.html"
+            },
+            {
+                "casNumber": "14067-04-0",
+                "formula": "Ti+",
+                "name": "Titanium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ti-007.html"
+            }
+        ]
     },
     {
         "element_name": "V",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=V&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=V&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-62-2",
+                "formula": "V",
+                "name": "Vanadium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/V-004.html"
+            },
+            {
+                "casNumber": "7440-62-2",
+                "formula": "V",
+                "name": "Vanadium",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/V-002.html"
+            },
+            {
+                "casNumber": "7440-62-2",
+                "formula": "V",
+                "name": "Vanadium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/V-003.html"
+            },
+            {
+                "casNumber": "7440-62-2",
+                "formula": "V",
+                "name": "Vanadium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/V-001.html"
+            },
+            {
+                "casNumber": "7440-62-2",
+                "formula": "V",
+                "name": "Vanadium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/V-005.html"
+            },
+            {
+                "casNumber": "16727-17-6",
+                "formula": "V-",
+                "name": "Vanadium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/V-007.html"
+            },
+            {
+                "casNumber": "14782-33-3",
+                "formula": "V+",
+                "name": "Vanadium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/V-006.html"
+            }
+        ]
     },
     {
         "element_name": "Cr",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cr&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cr&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-47-3",
+                "formula": "Cr",
+                "name": "Chromium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cr-004.html"
+            },
+            {
+                "casNumber": "7440-47-3",
+                "formula": "Cr",
+                "name": "Chromium",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cr-002.html"
+            },
+            {
+                "casNumber": "7440-47-3",
+                "formula": "Cr",
+                "name": "Chromium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cr-003.html"
+            },
+            {
+                "casNumber": "7440-47-3",
+                "formula": "Cr",
+                "name": "Chromium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cr-001.html"
+            },
+            {
+                "casNumber": "7440-47-3",
+                "formula": "Cr",
+                "name": "Chromium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cr-005.html"
+            },
+            {
+                "casNumber": "19498-56-7",
+                "formula": "Cr-",
+                "name": "Chromium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cr-007.html"
+            },
+            {
+                "casNumber": "14067-03-9",
+                "formula": "Cr+",
+                "name": "Chromium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cr-006.html"
+            }
+        ]
     },
     {
         "element_name": "Mn",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Mn&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Mn&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7439-96-5",
+                "formula": "Mn",
+                "name": "Manganese",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mn-001.html"
+            },
+            {
+                "casNumber": "7439-96-5",
+                "formula": "Mn",
+                "name": "Manganese",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mn-002.html"
+            },
+            {
+                "casNumber": "7439-96-5",
+                "formula": "Mn",
+                "name": "Manganese",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mn-003.html"
+            },
+            {
+                "casNumber": "7439-96-5",
+                "formula": "Mn",
+                "name": "Manganese",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mn-004.html"
+            },
+            {
+                "casNumber": "7439-96-5",
+                "formula": "Mn",
+                "name": "Manganese",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mn-005.html"
+            },
+            {
+                "casNumber": "14127-69-6",
+                "formula": "Mn+",
+                "name": "Manganese, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mn-006.html"
+            }
+        ]
     },
     {
         "element_name": "Fe",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Fe&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Fe&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7439-89-6",
+                "formula": "Fe",
+                "name": "Iron",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Fe-003.html"
+            },
+            {
+                "casNumber": "7439-89-6",
+                "formula": "Fe",
+                "name": "Iron",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Fe-006.html"
+            },
+            {
+                "casNumber": "7439-89-6",
+                "formula": "Fe",
+                "name": "Iron",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Fe-007.html"
+            },
+            {
+                "casNumber": "7439-89-6",
+                "formula": "Fe",
+                "name": "Iron",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Fe-008.html"
+            },
+            {
+                "casNumber": "7439-89-6",
+                "formula": "Fe",
+                "name": "Iron, Alpha-Delta",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Fe-004.html"
+            },
+            {
+                "casNumber": "7439-89-6",
+                "formula": "Fe",
+                "name": "Iron, Gamma",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Fe-005.html"
+            },
+            {
+                "casNumber": "22325-61-7",
+                "formula": "Fe-",
+                "name": "Iron, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Fe-010.html"
+            },
+            {
+                "casNumber": "14067-02-8",
+                "formula": "Fe+",
+                "name": "Iron, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Fe-009.html"
+            }
+        ]
     },
     {
         "element_name": "Co",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Co&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Co&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-48-4",
+                "formula": "Co",
+                "name": "Cobalt",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Co-004.html"
+            },
+            {
+                "casNumber": "7440-48-4",
+                "formula": "Co",
+                "name": "Cobalt",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Co-002.html"
+            },
+            {
+                "casNumber": "7440-48-4",
+                "formula": "Co",
+                "name": "Cobalt",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Co-003.html"
+            },
+            {
+                "casNumber": "7440-48-4",
+                "formula": "Co",
+                "name": "Cobalt",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Co-001.html"
+            },
+            {
+                "casNumber": "7440-48-4",
+                "formula": "Co",
+                "name": "Cobalt",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Co-005.html"
+            },
+            {
+                "casNumber": "16727-18-7",
+                "formula": "Co-",
+                "name": "Cobalt, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Co-007.html"
+            },
+            {
+                "casNumber": "16610-75-6",
+                "formula": "Co+",
+                "name": "Cobalt, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Co-006.html"
+            }
+        ]
     },
     {
         "element_name": "Ni",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ni&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ni&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-02-0",
+                "formula": "Ni",
+                "name": "Nickel",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ni-004.html"
+            },
+            {
+                "casNumber": "7440-02-0",
+                "formula": "Ni",
+                "name": "Nickel",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ni-002.html"
+            },
+            {
+                "casNumber": "7440-02-0",
+                "formula": "Ni",
+                "name": "Nickel",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ni-003.html"
+            },
+            {
+                "casNumber": "7440-02-0",
+                "formula": "Ni",
+                "name": "Nickel",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ni-001.html"
+            },
+            {
+                "casNumber": "7440-02-0",
+                "formula": "Ni",
+                "name": "Nickel",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ni-005.html"
+            },
+            {
+                "casNumber": "33383-01-6",
+                "formula": "Ni-",
+                "name": "Nickel, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ni-007.html"
+            },
+            {
+                "casNumber": "14903-34-5",
+                "formula": "Ni+",
+                "name": "Nickel, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ni-006.html"
+            }
+        ]
     },
     {
         "element_name": "Cu",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cu&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cu&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-50-8",
+                "formula": "Cu",
+                "name": "Copper",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cu-004.html"
+            },
+            {
+                "casNumber": "7440-50-8",
+                "formula": "Cu",
+                "name": "Copper",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cu-002.html"
+            },
+            {
+                "casNumber": "7440-50-8",
+                "formula": "Cu",
+                "name": "Copper",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cu-003.html"
+            },
+            {
+                "casNumber": "7440-50-8",
+                "formula": "Cu",
+                "name": "Copper",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cu-001.html"
+            },
+            {
+                "casNumber": "7440-50-8",
+                "formula": "Cu",
+                "name": "Copper",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cu-005.html"
+            },
+            {
+                "casNumber": "19498-52-3",
+                "formula": "Cu-",
+                "name": "Copper, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cu-007.html"
+            },
+            {
+                "casNumber": "17493-86-6",
+                "formula": "Cu+",
+                "name": "Copper, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cu-006.html"
+            }
+        ]
     },
     {
         "element_name": "Zn",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Zn&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Zn&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-66-6",
+                "formula": "Zn",
+                "name": "Zinc",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zn-004.html"
+            },
+            {
+                "casNumber": "7440-66-6",
+                "formula": "Zn",
+                "name": "Zinc",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zn-002.html"
+            },
+            {
+                "casNumber": "7440-66-6",
+                "formula": "Zn",
+                "name": "Zinc",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zn-003.html"
+            },
+            {
+                "casNumber": "7440-66-6",
+                "formula": "Zn",
+                "name": "Zinc",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zn-001.html"
+            },
+            {
+                "casNumber": "7440-66-6",
+                "formula": "Zn",
+                "name": "Zinc",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zn-005.html"
+            },
+            {
+                "casNumber": "19229-95-9",
+                "formula": "Zn-",
+                "name": "Zinc, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zn-007.html"
+            },
+            {
+                "casNumber": "15176-26-8",
+                "formula": "Zn+",
+                "name": "Zinc, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zn-006.html"
+            }
+        ]
     },
     {
         "element_name": "Ga",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ga&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ga&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-55-3",
+                "formula": "Ga",
+                "name": "Gallium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ga-004.html"
+            },
+            {
+                "casNumber": "7440-55-3",
+                "formula": "Ga",
+                "name": "Gallium",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ga-002.html"
+            },
+            {
+                "casNumber": "7440-55-3",
+                "formula": "Ga",
+                "name": "Gallium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ga-003.html"
+            },
+            {
+                "casNumber": "7440-55-3",
+                "formula": "Ga",
+                "name": "Gallium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ga-001.html"
+            },
+            {
+                "casNumber": "7440-55-3",
+                "formula": "Ga",
+                "name": "Gallium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ga-005.html"
+            },
+            {
+                "casNumber": "26575-18-8",
+                "formula": "Ga-",
+                "name": "Gallium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ga-007.html"
+            },
+            {
+                "casNumber": "15091-79-9",
+                "formula": "Ga+",
+                "name": "Gallium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ga-006.html"
+            }
+        ]
     },
     {
         "element_name": "Ge",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ge&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ge&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "As",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=As&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=As&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Se",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Se&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Se&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Br",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Br&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Br&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "10097-32-2",
+                "formula": "Br",
+                "name": "Bromine",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Br-001.html"
+            },
+            {
+                "casNumber": "24959-67-9",
+                "formula": "Br-",
+                "name": "Bromine, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Br-003.html"
+            },
+            {
+                "casNumber": "22541-56-6",
+                "formula": "Br+",
+                "name": "Bromine, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Br-002.html"
+            }
+        ]
     },
     {
         "element_name": "Kr",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Kr&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Kr&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7439-90-9",
+                "formula": "Kr",
+                "name": "Krypton",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Kr-001.html"
+            },
+            {
+                "casNumber": "16915-28-9",
+                "formula": "Kr+",
+                "name": "Krypton, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Kr-002.html"
+            }
+        ]
     },
     {
         "element_name": "Rb",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Rb&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Rb&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-17-7",
+                "formula": "Rb",
+                "name": "Rubidium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Rb-004.html"
+            },
+            {
+                "casNumber": "7440-17-7",
+                "formula": "Rb",
+                "name": "Rubidium",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Rb-002.html"
+            },
+            {
+                "casNumber": "7440-17-7",
+                "formula": "Rb",
+                "name": "Rubidium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Rb-003.html"
+            },
+            {
+                "casNumber": "7440-17-7",
+                "formula": "Rb",
+                "name": "Rubidium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Rb-001.html"
+            },
+            {
+                "casNumber": "7440-17-7",
+                "formula": "Rb",
+                "name": "Rubidium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Rb-005.html"
+            },
+            {
+                "casNumber": "26396-76-9",
+                "formula": "Rb-",
+                "name": "Rubidium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Rb-007.html"
+            },
+            {
+                "casNumber": "22537-38-8",
+                "formula": "Rb+",
+                "name": "Rubidium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Rb-006.html"
+            }
+        ]
     },
     {
         "element_name": "Sr",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sr&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sr&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-24-6",
+                "formula": "Sr",
+                "name": "Strontium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Sr-004.html"
+            },
+            {
+                "casNumber": "7440-24-6",
+                "formula": "Sr",
+                "name": "Strontium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Sr-001.html"
+            },
+            {
+                "casNumber": "7440-24-6",
+                "formula": "Sr",
+                "name": "Strontium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Sr-005.html"
+            },
+            {
+                "casNumber": "7440-24-6",
+                "formula": "Sr",
+                "name": "Strontium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Sr-006.html"
+            },
+            {
+                "casNumber": "7440-24-6",
+                "formula": "Sr",
+                "name": "Strontium, Alpha",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Sr-002.html"
+            },
+            {
+                "casNumber": "7440-24-6",
+                "formula": "Sr",
+                "name": "Strontium, Beta",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Sr-003.html"
+            },
+            {
+                "casNumber": "14701-18-9",
+                "formula": "Sr+",
+                "name": "Strontium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Sr-007.html"
+            }
+        ]
     },
     {
         "element_name": "Y",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Y&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Y&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Zr",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Zr&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Zr&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-67-7",
+                "formula": "Zr",
+                "name": "Zirconium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zr-001.html"
+            },
+            {
+                "casNumber": "7440-67-7",
+                "formula": "Zr",
+                "name": "Zirconium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zr-004.html"
+            },
+            {
+                "casNumber": "7440-67-7",
+                "formula": "Zr",
+                "name": "Zirconium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zr-005.html"
+            },
+            {
+                "casNumber": "7440-67-7",
+                "formula": "Zr",
+                "name": "Zirconium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zr-006.html"
+            },
+            {
+                "casNumber": "7440-67-7",
+                "formula": "Zr",
+                "name": "Zirconium, Alpha",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zr-002.html"
+            },
+            {
+                "casNumber": "7440-67-7",
+                "formula": "Zr",
+                "name": "Zirconium, Beta",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zr-003.html"
+            },
+            {
+                "casNumber": "54604-26-1",
+                "formula": "Zr-",
+                "name": "Zirconium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zr-008.html"
+            },
+            {
+                "casNumber": "14701-19-0",
+                "formula": "Zr+",
+                "name": "Zirconium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Zr-007.html"
+            }
+        ]
     },
     {
         "element_name": "Nb",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Nb&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Nb&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-03-1",
+                "formula": "Nb",
+                "name": "Niobium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Nb-004.html"
+            },
+            {
+                "casNumber": "7440-03-1",
+                "formula": "Nb",
+                "name": "Niobium",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Nb-002.html"
+            },
+            {
+                "casNumber": "7440-03-1",
+                "formula": "Nb",
+                "name": "Niobium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Nb-003.html"
+            },
+            {
+                "casNumber": "7440-03-1",
+                "formula": "Nb",
+                "name": "Niobium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Nb-001.html"
+            },
+            {
+                "casNumber": "7440-03-1",
+                "formula": "Nb",
+                "name": "Niobium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Nb-005.html"
+            },
+            {
+                "casNumber": "54604-27-2",
+                "formula": "Nb-",
+                "name": "Niobium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Nb-007.html"
+            },
+            {
+                "casNumber": "18587-63-8",
+                "formula": "Nb+",
+                "name": "Niobium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Nb-006.html"
+            }
+        ]
     },
     {
         "element_name": "Mo",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Mo&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Mo&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7439-98-7",
+                "formula": "Mo",
+                "name": "Molybdenum",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mo-004.html"
+            },
+            {
+                "casNumber": "7439-98-7",
+                "formula": "Mo",
+                "name": "Molybdenum",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mo-002.html"
+            },
+            {
+                "casNumber": "7439-98-7",
+                "formula": "Mo",
+                "name": "Molybdenum",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mo-003.html"
+            },
+            {
+                "casNumber": "7439-98-7",
+                "formula": "Mo",
+                "name": "Molybdenum",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mo-001.html"
+            },
+            {
+                "casNumber": "7439-98-7",
+                "formula": "Mo",
+                "name": "Molybdenum",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mo-005.html"
+            },
+            {
+                "casNumber": "54604-28-3",
+                "formula": "Mo-",
+                "name": "Molybdenum, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mo-007.html"
+            },
+            {
+                "casNumber": "16727-12-1",
+                "formula": "Mo+",
+                "name": "Molybdenum, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Mo-006.html"
+            }
+        ]
     },
     {
         "element_name": "Tc",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Tc&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Tc&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Ru",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ru&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ru&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Rh",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Rh&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Rh&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Pd",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pd&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pd&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Ag",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ag&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ag&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Cd",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cd&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cd&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "In",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=In&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=In&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Sn",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sn&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sn&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Sb",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sb&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sb&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Te",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Te&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Te&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "I",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=I&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=I&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "14362-44-8",
+                "formula": "I",
+                "name": "Iodine",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/I-001.html"
+            },
+            {
+                "casNumber": "20461-54-5",
+                "formula": "I-",
+                "name": "Iodine, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/I-003.html"
+            },
+            {
+                "casNumber": "22541-93-1",
+                "formula": "I+",
+                "name": "Iodine, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/I-002.html"
+            },
+            {
+                "casNumber": "7553-56-2",
+                "formula": "I2",
+                "name": "Iodine",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/I-027.html"
+            },
+            {
+                "casNumber": "7553-56-2",
+                "formula": "I2",
+                "name": "Iodine",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/I-023.html"
+            },
+            {
+                "casNumber": "7553-56-2",
+                "formula": "I2",
+                "name": "Iodine",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/I-024.html"
+            },
+            {
+                "casNumber": "7553-56-2",
+                "formula": "I2",
+                "name": "Iodine",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/I-025.html"
+            },
+            {
+                "casNumber": "7553-56-2",
+                "formula": "I2",
+                "name": "Iodine",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/I-026.html"
+            },
+            {
+                "casNumber": "7681-11-0",
+                "formula": "IK",
+                "name": "Potassium Iodide",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/I-005.html"
+            },
+            {
+                "casNumber": "7681-11-0",
+                "formula": "IK",
+                "name": "Potassium Iodide",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/I-006.html"
+            },
+            {
+                "casNumber": "7681-11-0",
+                "formula": "IK",
+                "name": "Potassium Iodide",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/I-007.html"
+            },
+            {
+                "casNumber": "7681-11-0",
+                "formula": "IK",
+                "name": "Potassium Iodide",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/I-004.html"
+            }
+        ]
     },
     {
         "element_name": "Xe",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Xe&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Xe&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-63-3",
+                "formula": "Xe",
+                "name": "Xenon",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Xe-001.html"
+            },
+            {
+                "casNumber": "24203-25-6",
+                "formula": "Xe+",
+                "name": "Xenon, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Xe-002.html"
+            }
+        ]
     },
     {
         "element_name": "Cs",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cs&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cs&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-46-2",
+                "formula": "Cs",
+                "name": "Cesium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cs-004.html"
+            },
+            {
+                "casNumber": "7440-46-2",
+                "formula": "Cs",
+                "name": "Cesium",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cs-002.html"
+            },
+            {
+                "casNumber": "7440-46-2",
+                "formula": "Cs",
+                "name": "Cesium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cs-003.html"
+            },
+            {
+                "casNumber": "7440-46-2",
+                "formula": "Cs",
+                "name": "Cesium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cs-001.html"
+            },
+            {
+                "casNumber": "7440-46-2",
+                "formula": "Cs",
+                "name": "Cesium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cs-005.html"
+            },
+            {
+                "casNumber": "26396-99-6",
+                "formula": "Cs-",
+                "name": "Cesium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cs-007.html"
+            },
+            {
+                "casNumber": "18459-37-5",
+                "formula": "Cs+",
+                "name": "Cesium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Cs-006.html"
+            }
+        ]
     },
     {
         "element_name": "Ba",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ba&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ba&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-39-3",
+                "formula": "Ba",
+                "name": "Barium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ba-001.html"
+            },
+            {
+                "casNumber": "7440-39-3",
+                "formula": "Ba",
+                "name": "Barium",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ba-002.html"
+            },
+            {
+                "casNumber": "7440-39-3",
+                "formula": "Ba",
+                "name": "Barium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ba-003.html"
+            },
+            {
+                "casNumber": "7440-39-3",
+                "formula": "Ba",
+                "name": "Barium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ba-004.html"
+            },
+            {
+                "casNumber": "7440-39-3",
+                "formula": "Ba",
+                "name": "Barium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ba-005.html"
+            },
+            {
+                "casNumber": "16541-35-8",
+                "formula": "Ba+",
+                "name": "Barium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ba-006.html"
+            }
+        ]
     },
     {
         "element_name": "Hf",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Hf&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Hf&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-58-6",
+                "formula": "Hf",
+                "name": "Hafnium",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Hf-001.html"
+            },
+            {
+                "casNumber": "7440-58-6",
+                "formula": "Hf",
+                "name": "Hafnium",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Hf-004.html"
+            },
+            {
+                "casNumber": "7440-58-6",
+                "formula": "Hf",
+                "name": "Hafnium",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Hf-005.html"
+            },
+            {
+                "casNumber": "7440-58-6",
+                "formula": "Hf",
+                "name": "Hafnium",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Hf-006.html"
+            },
+            {
+                "casNumber": "7440-58-6",
+                "formula": "Hf",
+                "name": "Hafnium, Alpha",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Hf-002.html"
+            },
+            {
+                "casNumber": "7440-58-6",
+                "formula": "Hf",
+                "name": "Hafnium, Beta",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Hf-003.html"
+            },
+            {
+                "casNumber": "110682-17-2",
+                "formula": "Hf-",
+                "name": "Hafnium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Hf-008.html"
+            },
+            {
+                "casNumber": "20561-33-5",
+                "formula": "Hf+",
+                "name": "Hafnium, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Hf-007.html"
+            }
+        ]
     },
     {
         "element_name": "Ta",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ta&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ta&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-25-7",
+                "formula": "Ta",
+                "name": "Tantalum",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ta-004.html"
+            },
+            {
+                "casNumber": "7440-25-7",
+                "formula": "Ta",
+                "name": "Tantalum",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ta-002.html"
+            },
+            {
+                "casNumber": "7440-25-7",
+                "formula": "Ta",
+                "name": "Tantalum",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ta-003.html"
+            },
+            {
+                "casNumber": "7440-25-7",
+                "formula": "Ta",
+                "name": "Tantalum",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ta-001.html"
+            },
+            {
+                "casNumber": "7440-25-7",
+                "formula": "Ta",
+                "name": "Tantalum",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ta-005.html"
+            },
+            {
+                "casNumber": "56217-42-6",
+                "formula": "Ta-",
+                "name": "Tantalum, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ta-007.html"
+            },
+            {
+                "casNumber": "20561-66-4",
+                "formula": "Ta+",
+                "name": "Tantalum, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Ta-006.html"
+            }
+        ]
     },
     {
         "element_name": "W",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=W&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=W&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7440-33-7",
+                "formula": "W",
+                "name": "Tungsten",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/W-004.html"
+            },
+            {
+                "casNumber": "7440-33-7",
+                "formula": "W",
+                "name": "Tungsten",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/W-002.html"
+            },
+            {
+                "casNumber": "7440-33-7",
+                "formula": "W",
+                "name": "Tungsten",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/W-003.html"
+            },
+            {
+                "casNumber": "7440-33-7",
+                "formula": "W",
+                "name": "Tungsten",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/W-001.html"
+            },
+            {
+                "casNumber": "7440-33-7",
+                "formula": "W",
+                "name": "Tungsten",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/W-005.html"
+            },
+            {
+                "casNumber": "64847-13-8",
+                "formula": "W-",
+                "name": "Tungsten, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/W-007.html"
+            },
+            {
+                "casNumber": "16557-44-1",
+                "formula": "W+",
+                "name": "Tungsten, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/W-006.html"
+            }
+        ]
     },
     {
         "element_name": "Re",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Re&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Re&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Os",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Os&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Os&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Ir",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ir&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ir&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Pt",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pt&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pt&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Au",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Au&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Au&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Hg",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Hg&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Hg&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7439-97-6",
+                "formula": "Hg",
+                "name": "Mercury",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Hg-001.html"
+            },
+            {
+                "casNumber": "7439-97-6",
+                "formula": "Hg",
+                "name": "Mercury",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Hg-002.html"
+            },
+            {
+                "casNumber": "7439-97-6",
+                "formula": "Hg",
+                "name": "Mercury",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Hg-003.html"
+            },
+            {
+                "casNumber": "22542-11-6",
+                "formula": "Hg+",
+                "name": "Mercury, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Hg-004.html"
+            }
+        ]
     },
     {
         "element_name": "Tl",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Tl&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Tl&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Pb",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pb&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pb&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "7439-92-1",
+                "formula": "Pb",
+                "name": "Lead",
+                "state": "cr,l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Pb-004.html"
+            },
+            {
+                "casNumber": "7439-92-1",
+                "formula": "Pb",
+                "name": "Lead",
+                "state": "cr",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Pb-002.html"
+            },
+            {
+                "casNumber": "7439-92-1",
+                "formula": "Pb",
+                "name": "Lead",
+                "state": "l",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Pb-003.html"
+            },
+            {
+                "casNumber": "7439-92-1",
+                "formula": "Pb",
+                "name": "Lead",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Pb-001.html"
+            },
+            {
+                "casNumber": "7439-92-1",
+                "formula": "Pb",
+                "name": "Lead",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Pb-005.html"
+            },
+            {
+                "casNumber": "59359-31-8",
+                "formula": "Pb-",
+                "name": "Lead, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Pb-007.html"
+            },
+            {
+                "casNumber": "14701-27-0",
+                "formula": "Pb+",
+                "name": "Lead, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Pb-006.html"
+            }
+        ]
     },
     {
         "element_name": "Bi",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Bi&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Bi&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Po",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Po&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Po&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "At",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=At&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=At&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Rn",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Rn&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Rn&state=0&partialMatch=on",
+        "elementsList": [
+            {
+                "casNumber": "10043-92-2",
+                "formula": "Rn",
+                "name": "Radon",
+                "state": "ref",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Rn-001.html"
+            },
+            {
+                "casNumber": "22541-65-7",
+                "formula": "Rn+",
+                "name": "Radon, Ion",
+                "state": "g",
+                "JANAFTableUrl": "http://kinetics.nist.gov/janaf/html/Rn-002.html"
+            }
+        ]
     },
     {
         "element_name": "Fr",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Fr&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Fr&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Ra",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ra&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ra&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "La",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=La&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=La&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Ce",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ce&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ce&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Pr",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pr&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pr&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Nd",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Nd&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Nd&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Pm",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pm&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pm&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Sm",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sm&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sm&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Eu",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Eu&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Eu&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Gd",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Gd&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Gd&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Tb",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Tb&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Tb&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Dy",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Dy&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Dy&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Ho",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ho&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ho&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Er",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Er&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Er&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Tm",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Tm&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Tm&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Yb",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Yb&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Yb&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Lu",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Lu&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Lu&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Ac",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ac&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ac&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Th",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Th&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Th&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Pa",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pa&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pa&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "U",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=U&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=U&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Np",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Np&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Np&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Pu",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pu&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pu&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Am",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Am&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Am&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Cm",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cm&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cm&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Bk",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Bk&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Bk&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Cf",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cf&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cf&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Es",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Es&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Es&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Fm",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Fm&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Fm&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Md",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Md&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Md&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "No",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=No&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=No&state=0&partialMatch=on",
+        "elementsList": []
     },
     {
         "element_name": "Lr",
-        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Lr&state=0&partialMatch=on"
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Lr&state=0&partialMatch=on",
+        "elementsList": []
     }
 ]
