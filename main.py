@@ -14,4 +14,3 @@ if __name__ == '__main__':
     
     chemicalElementsList = getChemicalElementsInfo()
     formatJson(chemicalElementsList, jsonfile_path)
-    

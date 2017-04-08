@@ -24,7 +24,7 @@ def getChemicalElementsInfo():
         if td_tag.find("a") is None:
             continue
         elementName = td_tag.find("br").string
-        elementUrl  = base_url + td_tag.find("a").get("href")
+        elementUrl = base_url + td_tag.find("a").get("href")
         elementsList = getElementInfo(elementUrl)
         chemicalElementList.append(chemicalElementInfo(elementName, elementUrl, elementsList))
     return chemicalElementList
@@ -39,10 +39,9 @@ def getElementInfo(elementUrl):
     rows = table.findAll("tr")
     
     ElementList = []
-    elementInfo = namedtuple('elementInfo', ('casNumber', 'formula', 'name', 'state', 'JANAFTableUrl'))
+    elementInfo = namedtuple('elementInfo', ('casNumber', 'formula', 'name', 'state', 'JANAFTableUrl', 'thermochemicalDataList'))
         
-    for row in rows:
-            
+    for row in rows:            
         elementList = []
         index = 0
         for cell in row.findAll('td'):
@@ -66,6 +65,64 @@ def getElementInfo(elementUrl):
                 elementList.append(JANAFTableUrl)
             
         if elementList != []:
-            ElementList.append(elementInfo(elementList[0], elementList[1], elementList[2], elementList[3], elementList[4]))
+            print("-----------------------")
+            print(elementList[1], elementList[2], elementList[3])
+            thermochemicalDataList = getThermochemicalDataList(elementList[4])
+            ElementList.append(elementInfo(elementList[0], elementList[1], elementList[2], elementList[3], elementList[4], thermochemicalDataList))
         
     return ElementList
+
+def getThermochemicalDataList(JANAFTableUrl):
+    
+    r = requests.get(JANAFTableUrl)
+    soup = BeautifulSoup(r.text, "html.parser")
+    
+    table = soup.findAll("table")[0]
+    rows = table.findAll("tr")
+    
+    thermochemicalDataList = []
+    thermochemicalData = namedtuple('thermochemicalData', ('temperature', 'specificHeat', 'entropy', 'gibbs', 'enthalpy'))
+    
+    for row in rows:
+        chemicalData = []
+        index = 0
+        for cell in row.findAll('td'):
+            index = index + 1
+            if cell.get("width") is None and cell.get("align") is None and cell.get("colspan") is None:
+                
+                if cell.get_text() == "+":
+                    continue
+                
+                if index == 1:
+                    # T/K
+                    chemicalData.append(cell.get_text())
+                elif index == 3:
+                    # Cp°
+                    chemicalData.append(cell.get_text())
+                elif index == 5:
+                    # S°
+                    chemicalData.append(cell.get_text())
+                elif index == 7:
+                    # -[G°-H°(Tr)]/T
+                    chemicalData.append(cell.get_text())
+                elif index == 9:
+                    # H-H°(Tr)
+                    chemicalData.append(cell.get_text())
+                else:
+                    continue
+            else:
+                continue
+            
+        if chemicalData != []:
+            print(chemicalData[0],chemicalData[1],chemicalData[2],chemicalData[3],chemicalData[4])
+            thermochemicalDataList.append(thermochemicalData(
+                chemicalData[0],
+                chemicalData[1],
+                chemicalData[2],
+                chemicalData[3],
+                chemicalData[4]
+            ))
+
+    return thermochemicalDataList
+            
+    
