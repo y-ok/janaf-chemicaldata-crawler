@@ -1,0 +1,414 @@
+[
+    {
+        "element_name": "H",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=H&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "He",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=He&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Li",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Li&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Be",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Be&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "B",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=B&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "C",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=C&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "N",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=N&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "O",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=O&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "F",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=F&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ne",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ne&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Na",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Na&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Mg",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Mg&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Al",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Al&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Si",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Si&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "P",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=P&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "S",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=S&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Cl",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cl&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ar",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ar&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "K",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=K&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ca",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ca&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Sc",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sc&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ti",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ti&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "V",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=V&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Cr",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cr&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Mn",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Mn&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Fe",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Fe&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Co",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Co&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ni",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ni&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Cu",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cu&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Zn",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Zn&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ga",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ga&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ge",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ge&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "As",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=As&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Se",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Se&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Br",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Br&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Kr",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Kr&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Rb",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Rb&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Sr",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sr&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Y",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Y&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Zr",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Zr&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Nb",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Nb&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Mo",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Mo&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Tc",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Tc&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ru",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ru&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Rh",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Rh&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Pd",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pd&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ag",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ag&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Cd",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cd&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "In",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=In&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Sn",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sn&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Sb",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sb&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Te",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Te&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "I",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=I&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Xe",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Xe&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Cs",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cs&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ba",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ba&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Hf",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Hf&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ta",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ta&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "W",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=W&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Re",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Re&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Os",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Os&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ir",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ir&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Pt",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pt&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Au",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Au&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Hg",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Hg&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Tl",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Tl&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Pb",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pb&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Bi",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Bi&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Po",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Po&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "At",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=At&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Rn",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Rn&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Fr",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Fr&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ra",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ra&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "La",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=La&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ce",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ce&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Pr",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pr&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Nd",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Nd&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Pm",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pm&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Sm",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Sm&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Eu",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Eu&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Gd",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Gd&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Tb",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Tb&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Dy",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Dy&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ho",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ho&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Er",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Er&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Tm",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Tm&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Yb",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Yb&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Lu",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Lu&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Ac",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Ac&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Th",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Th&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Pa",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pa&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "U",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=U&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Np",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Np&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Pu",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Pu&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Am",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Am&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Cm",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cm&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Bk",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Bk&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Cf",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Cf&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Es",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Es&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Fm",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Fm&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Md",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Md&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "No",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=No&state=0&partialMatch=on"
+    },
+    {
+        "element_name": "Lr",
+        "element_url": "http://kinetics.nist.gov/janaf/Search?query=Lr&state=0&partialMatch=on"
+    }
+]
